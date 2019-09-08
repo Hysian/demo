@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "patrolTask":[
+{"taskCode":"201909030001","patrolName":"黑龙江路综合舱日常巡检","patrolType":"日常巡检","controlCenter":"黑龙江路分控中心","fireZone":"002防火分区","state":"已完成","principal":"张明（15720517495）","startTime":"2019/9/5 8:00","endTime":"2019/9/5 18:00","room":"巡检舱室","location":"肥西县独秀园"},
+{"taskCode":"201909030003","patrolName":"丰乐河大道综合舱日常巡检","patrolType":"日常巡检","controlCenter":"黑龙江路分控中心","fireZone":"001防火分区","state":"已完成","principal":"王天佑(13227338981)","startTime":"2019/9/5 8:00","endTime":"2019/9/5 18:00","room":"巡检舱室","location":"肥西县独秀园"},
+{"taskCode":"201909030005","patrolName":"黑龙江路综合舱日常巡检","patrolType":"日常巡检","controlCenter":"黑龙江路分控中心","fireZone":"005防火分区","state":"执行中","principal":"王子从（18225875875）","startTime":"2019/9/5 8:00","endTime":"2019/9/5 18:00","room":"巡检舱室","location":"肥西县独秀园"},
+{"taskCode":"201909030007","patrolName":"黑龙江路综合舱日常巡检","patrolType":"日常巡检","controlCenter":"黑龙江路分控中心","fireZone":"006防火分区","state":"未开始","principal":"张明（15720517495）","startTime":"2019/9/7 8:00","endTime":"2019/9/7 18:00","room":"巡检舱室","location":"肥西县独秀园"},
+{"taskCode":"20190903009","patrolName":"黑龙江路综合舱日常巡检","patrolType":"日常巡检","controlCenter":"黑龙江路分控中心","fireZone":"007防火分区","state":"未开始","principal":"张明（15720517495）","startTime":"2019/9/8 8:00","endTime":"2019/9/8 18:00","room":"巡检舱室","location":"肥西县独秀园"},
+{"taskCode":"201909100002","patrolName":"黑龙江路综合舱日常巡检","patrolType":"日常巡检","controlCenter":"黑龙江路分控中心","fireZone":"008防火分区","state":"未开始","principal":"张明（15720517495）","startTime":"2019/9/9 8:00","endTime":"2019/9/9 18:00","room":"巡检舱室","location":"肥西县独秀园"},
+{"taskCode":"201909100004","patrolName":"丰乐河大道综合舱日常巡检","patrolType":"日常巡检","controlCenter":"黑龙江路分控中心","fireZone":"009防火分区","state":"执行中","principal":"王天佑(13227338981)","startTime":"2019/9/6 8:00","endTime":"2019/9/6 18:00","room":"巡检舱室","location":"肥西县独秀园"}
+
+]
 }
