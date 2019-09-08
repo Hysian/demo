@@ -8,5 +8,48 @@
 {"taskCode":"201909100002","patrolName":"黑龙江路综合舱日常巡检","patrolType":"日常巡检","patrolObject":"廊内通风系统","controlCenter":"黑龙江路分控中心","fireZone":"008防火分区","state":"2","principal":"张明（15720517495）","startTime":"2019/9/9 8:00","endTime":"2019/9/9 18:00","room":"巡检舱室","location":"肥西县独秀园"},
 {"taskCode":"201909100004","patrolName":"丰乐河大道综合舱日常巡检","patrolType":"日常巡检","patrolObject":"廊内通风系统","controlCenter":"黑龙江路分控中心","fireZone":"009防火分区","state":"1","principal":"王天佑(13227338981)","startTime":"2019/9/6 8:00","endTime":"2019/9/6 18:00","room":"巡检舱室","location":"肥西县独秀园"}
 
+],
+  "patrolList":[
+  {
+    "id": 1,
+    "name": "风机",
+    "subItem":[
+      {"id":"1","name":"风机手动和自动启停是否有效","state":"正常"},
+      {"id":"2","name":"风机运转声音是否正常","state":"正常"},
+      {"id":"3","name":"风机振动是否正常","state":"正常"},
+      {"id":"4","name":"风机周边及外观检查","state":"正常"},
+      {"id":"5","name":"进出风口是否有异物","state":"异常"},
+      {"id":"6","name":"风机紧固件工作是否正常","state":"正常"},
+      {"id":"7","name":"风机控制柜内清洁","state":"正常"},
+      {"id":"8","name":"风机表面清洁","state":"正常"},
+      {"id":"9","name":"风机基础、防锈、减震检查","state":"正常"},
+      {"id":"10","name":"检查风机运行电流、电压","state":"正常"},
+      {"id":"11","name":"电机绝缘大于0.5 MΩ","state":"正常"},
+      {"id":"12","name":"风机轴承添加润滑油","state":"正常"}
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "风阀",
+    "subItem":[
+      {"id":"1","name":"风阀手操箱柜内清洁","state":"正常"},
+      {"id":"2","name":"风阀表面清洁","state":"正常"},
+      {"id":"3","name":"表面防腐处理","state":"正常"},
+      {"id":"4","name":"轴承加油","state":"正常"}
+      
+      ]
+  },
+  {
+    "id": 3,
+    "patrolName": "通风口、风管",
+    "subItem":[
+      {"id":"1","name":"风道异物清理","state":"正常"},
+      {"id":"2","name":"部件紧固","state":"正常"},
+      {"id":"3","name":"部件防腐防锈处理","state":"正常"},
+      {"id":"4","name":"电动百叶开关测试","state":"正常"}
+      
+      ]
+  }
 ]
 }
